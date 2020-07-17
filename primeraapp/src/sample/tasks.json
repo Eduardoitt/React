@@ -1,0 +1,27 @@
+[
+    {
+        "id":0,
+        "title":"Task one",
+        "Description":"import csv in r",
+        "done":false
+    },
+    {
+        "id":1,
+        "title":"Task two",
+        "Description":"create dataframe",
+        "done":false
+    },
+    {
+        "id":2,
+        "title":"Task three",
+        "Description":"view dataframe",
+        "done":false
+    }
+    , 
+    {
+        "id":3,
+        "title":"Task four",
+        "Description":"training dataframe",
+        "done":false
+    }
+]

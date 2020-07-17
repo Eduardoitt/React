@@ -17,3 +17,6 @@ npm start
     * Son datos que recibo un componente a travez de un objeto
 ### Seccion 3
 * Estado de componente state
+
+### Seccion 4
+* Pasar tareas o datos en formato js a traves de componentes

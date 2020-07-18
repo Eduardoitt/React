@@ -6,12 +6,12 @@ npx create-react-app primeraapp
 cd primaeraapp
 npm start
 
-## Primera sesion 
+
 ### Seccion 1
 * Que es react
 * Conociendo las carpetas
 
-## Segunda sesion
+
 ### Seccion 2
 * Props o properties
     * Son datos que recibo un componente a travez de un objeto
@@ -20,3 +20,7 @@ npm start
 
 ### Seccion 4
 * Pasar tareas o datos en formato js a traves de componentes
+
+
+### Seccion 5
+* Estilos 

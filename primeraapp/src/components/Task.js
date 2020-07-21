@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-
+import PropTypes from 'prop-types';
 class Task extends Component{
     styleCompleted(){
         return{
@@ -20,7 +20,9 @@ class Task extends Component{
         </p>
     }
 }
-
+TextTrackList.PropTypes={
+    task:PropTypes.object.isRequired
+}
 const btnDelete={
     fontSize:'18px',
     background:'#ea2027',

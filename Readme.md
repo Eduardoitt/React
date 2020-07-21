@@ -24,3 +24,9 @@ npm start
 
 ### Seccion 5
 * Estilos 
+
+### Seccion 6
+* PropTypes
+
+### Seccion 7
+* Forms 
